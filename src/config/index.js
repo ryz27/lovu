@@ -1,10 +1,10 @@
 export default {
   ucapan: [
     "Whatever happens, keep breathing",
-    "Dua tiga kucing saleh, gelut yuk",
+    "Harta, Tahta, Angelia >.<",
     "Hey! I wuv chuuuu! UwU",
   ],
-  panggilan: ["sat", "Rain", "Zara", "Maemunah"],
+  panggilan: ["Angelia", "Angela", "Angelia Maharani Nityasa"],
   colors: [
     "#FF6900",
     "#FCB900",
