@@ -1,8 +1,10 @@
 export default {
   ucapan: [
     "maaf ya aku ngilang selama ini",
-    "Harta, Tahta, maulida >.<",
-    "Hey! I luv yhuuuu! UwU",
+    "maaf udah buat kamu nunggu",
+    "Hey! I luv yhuuuu ♥",
+    "I may not with you everyday, but I love you everyday",
+    "I'm sorry for loving you",
   ],
   panggilan: ["cewe", "ndut", "mida"],
   colors: [
