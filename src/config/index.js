@@ -2,6 +2,7 @@ export default {
   ucapan: [
     "Aku kangen kamu",
     "maaf ya aku ngilang selama ini",
+    "bego banget aku yo",
     "maaf udah buat kamu nunggu",
     "Hey! I luv you ♥",
     "I may not with you everyday, but I love you everyday",
