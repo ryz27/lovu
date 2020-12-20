@@ -1,8 +1,9 @@
 export default {
   ucapan: [
+    "Aku kangen kamu",
     "maaf ya aku ngilang selama ini",
     "maaf udah buat kamu nunggu",
-    "Hey! I luv yhuuuu ♥",
+    "Hey! I luv you ♥",
     "I may not with you everyday, but I love you everyday",
     "I'm sorry for loving you",
   ],
