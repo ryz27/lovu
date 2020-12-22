@@ -8,7 +8,7 @@ export default {
     "I may not with you everyday, but I love you everyday",
     "I'm sorry for loving you",
   ],
-  panggilan: ["cewe", "ndut", "mida"],
+  panggilan: ["ndut", "cewe", "mida"],
   colors: [
     "#FF6900",
     "#FCB900",
