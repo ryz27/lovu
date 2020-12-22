@@ -3,7 +3,7 @@ export default {
     "Aku kangen kamu",
     "maaf ya aku ngilang selama ini",
     "bego banget aku yo",
-    "maaf udah buat kamu nunggu",
+    "maaf udah buat kamu kecewa",
     "Hey! I luv you ♥",
     "I may not with you everyday, but I love you everyday",
     "I'm sorry for loving you",
